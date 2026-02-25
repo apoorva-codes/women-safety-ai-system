@@ -156,25 +156,22 @@ women-safety-ai-system/
 ## System Diagrams
 
 ### High Level Architecture
-![Class Diagram](class_diagram.jpeg)
+![Class Diagram](class%20diagram%20high%20level.jpeg)
 
 ### Data Flow Diagram
-![Data Flow](dataflow_diagram.jpeg)
+![Data Flow](dataflow%20diagram.jpeg)
 
 ### Level 1 Data Flow
-![Data Flow Level 1](dataflow_level1.jpeg)
+![Data Flow Level 1](dataflow%20level1.jpeg)
 
 ### Sequence Diagram
-![Sequence](sequence_diagram.jpeg)
+![Sequence](sequence%20diagram.jpeg)
 
 ### Use Case Diagram
-![Use Case](usecase_diagram.jpeg)
+![Use Case](Usecase%20diagram.jpeg)
 
 ### System Interface
-![Interface](website_interface.jpeg)
-
-
----
+![Interface](website%20interface.jpeg)
 
 ## Author
 
