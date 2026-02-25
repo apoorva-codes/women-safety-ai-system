@@ -153,6 +153,25 @@ women-safety-ai-system/
 │
 ├── src/
 ├── notebooks/
+## System Diagrams
+
+### High Level Architecture
+![Class Diagram](class_diagram.jpeg)
+
+### Data Flow Diagram
+![Data Flow](dataflow_diagram.jpeg)
+
+### Level 1 Data Flow
+![Data Flow Level 1](dataflow_level1.jpeg)
+
+### Sequence Diagram
+![Sequence](sequence_diagram.jpeg)
+
+### Use Case Diagram
+![Use Case](usecase_diagram.jpeg)
+
+### System Interface
+![Interface](website_interface.jpeg)
 
 
 ---
